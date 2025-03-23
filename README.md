@@ -1,1 +1,2 @@
-# Nikita Chaudhari
+# Nikita Chaudhari 
+# Calculations that make simple Calculator 
